@@ -1,7 +1,7 @@
 
 
 
-![header](https://capsule-render.vercel.app/api?type=venom&color=timeGradient&height=300&section=header&text=Carlos&fontColor=000000&fontSize=65&animation=fadeIn&fontAlignY=50)
+![header](https://capsule-render.vercel.app/api?type=venom&color=timeGradient&height=300&section=header&text=Carlos&fontColor=06A8E8&fontSize=65&animation=fadeIn&fontAlignY=50)
 
 ###  🌱 I’m currently learning Cyber Security & backend Courses  <br>
 ###  📫 How to reach me: angrybird24@naver.com <br>
