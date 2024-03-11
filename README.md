@@ -10,7 +10,7 @@
 
 
  
-## Mostly use blog   <a href="https://wldldnjs.tistory.com/"><img src="https://img.shields.io/badge/tistory-F05138?style=flat-square&logo=tistory&logoColor=white"/>
+## Mostly use blog   <a href="https://sarimus.tistory.com/"><img src="https://img.shields.io/badge/tistory-F05138?style=flat-square&logo=tistory&logoColor=white"/>
  
  
 
