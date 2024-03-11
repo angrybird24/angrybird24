@@ -8,7 +8,9 @@
 ###  😄 Pronouns: he/him <br>
 ###  ⚡ Korean Blog link : https://sarimus.tistory.com/ <br>
 ###  🤔 I have studied :  
-  <img src="https://img.shields.io/badge/tistory-F05138](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ChatGPT?style=for-the-badge&logo=openai&logoColor=white"/>
+
+  
 ## Mostly use blog   <a href="https://sarimus.tistory.com/"><img src="https://img.shields.io/badge/tistory-F05138?style=flat-square&logo=tistory&logoColor=white"/>
  
  
