@@ -7,7 +7,7 @@
 ###  📫 How to reach me: angrybird24@naver.com <br>
 ###  😄 Pronouns: he/him <br>
 ###  ⚡ Korean Blog link : https://sarimus.tistory.com/ <br>
-
+###  🤔 I have studied :  
 
  
 ## Mostly use blog   <a href="https://sarimus.tistory.com/"><img src="https://img.shields.io/badge/tistory-F05138?style=flat-square&logo=tistory&logoColor=white"/>
