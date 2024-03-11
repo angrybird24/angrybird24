@@ -3,6 +3,13 @@
 
 ![header](https://capsule-render.vercel.app/api?type=venom&color=timeGradient&height=300&section=header&text=Carlos&fontColor=000000&fontSize=65&animation=fadeIn&fontAlignY=50)
 
+###  🌱 I’m currently learning Cyber Security & backend Courses  <br>
+###  📫 How to reach me: angrybird24@naver.com <br>
+###  😄 Pronouns: he/him <br>
+###  ⚡ Korean Blog link : https://sarimus.tistory.com/ <br>
+
+
+ 
 ## Mostly use blog 
 
 #### contained categories 
@@ -20,12 +27,6 @@ Reverse Engineering 리버스 엔지니어링 (17) <br>
 Malicious Code Analysis 악성 코드 분석 (2)  <br>
 기타 (3) <br>
   <br>
-###  🌱 I’m currently learning Cyber Security & backend Courses  <br>
-###  📫 How to reach me: angrybird24@naver.com <br>
-###  😄 Pronouns: he/him <br>
-###  ⚡ Korean Blog link : https://sarimus.tistory.com/ <br>
-
- 
 <!--
 **angrybird24/angrybird24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
