@@ -10,7 +10,9 @@
 
 
  
-## Mostly use blog 
+## Mostly use blog  <p>
+  <a href="https://wldldnjs.tistory.com/"><img src="https://img.shields.io/badge/tistory-F05138?style=flat-square&logo=tistory&logoColor=white"/>
+</p>
 
 #### contained categories 
 SPRING (2) <br>
