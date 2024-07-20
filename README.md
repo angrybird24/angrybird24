@@ -3,7 +3,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=venom&color=timeGradient&height=300&section=header&text=Carlos&fontColor=BB36FC&fontSize=65&animation=fadeIn&fontAlignY=50)
 
-###  🌱 I’m currently learning Cyber Security & backend Courses  <br>
+###  🌱 I’m currently learning Cyber Security  <br>
 ###  📫 How to reach me: angrybird24@naver.com <br>
 ###  😄 Pronouns: he/him <br>
 ###  ⚡ Korean Blog link : https://sarimus.tistory.com/ <br>
