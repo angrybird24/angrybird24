@@ -31,10 +31,10 @@ Full Stack Course 풀스택과정 (32) <br>
 SPRING (13) <br>
 JAVA 자바 (9) <br>
 HTML_CSS_JAVASCRIPT (8) <br> <br> <br> 
+기타<br><br>
+---------------------------<br>
 Git-Hub (1) <br> <br> 
----------------------------<br>
-DataAnalysis 데이터분석 (1) <br>
----------------------------<br>
+DataAnalysis 데이터분석 (1) <br> 
   <br> <br> <br>
 <!--
 **angrybird24/angrybird24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
