@@ -17,6 +17,7 @@
 #### contained categories 
 
 Information Security 정보보안 (99)  <br><br>
+---------------------------<br>
 정보보안 기본지식 (9) <br>
 Web Security 웹 보안 (11) <br>
 System Security 시스템 보안 (18) <br>
@@ -25,13 +26,16 @@ Reverse Engineering 리버스 엔지니어링 (17) <br>
 Malicious Code Analysis 악성 코드 분석 (18) <br>
 Vulnerability Analysis 취약점 분석 (6)   <br>
 Forensic 포렌식 (1) <br> <br> <br>
+---------------------------<br>
 Full Stack Course 풀스택과정 (32) <br> <br>
 SPRING (13) <br>
 JAVA 자바 (9) <br>
 HTML_CSS_JAVASCRIPT (8) <br> <br> <br>
-Git-Hub (1) <br> <br> <br>
-Artificial Intelligence 인공지능 (1) <br> <br>
+---------------------------<br>
+Git-Hub (1) <br> <br> 
+---------------------------<br>
 DataAnalysis 데이터분석 (1) <br>
+---------------------------<br>
   <br> <br> <br>
 <!--
 **angrybird24/angrybird24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
