@@ -16,7 +16,7 @@
 
 #### contained categories 
 
-Information Security 정보보안 (99)  <br><br>
+Information Security 정보보안 (99)  <br>
 ---------------------------<br>
 정보보안 기본지식 (9) <br>
 Web Security 웹 보안 (11) <br>
@@ -31,7 +31,7 @@ Full Stack Course 풀스택과정 (32) <br>
 SPRING (13) <br>
 JAVA 자바 (9) <br>
 HTML_CSS_JAVASCRIPT (8) <br> <br> <br> 
-기타<br><br>
+기타<br>
 ---------------------------<br>
 Git-Hub (1) <br>
 DataAnalysis 데이터분석 (1) <br> 
