@@ -25,7 +25,7 @@ Reverse Engineering 리버스 엔지니어링 (17) <br>
 Malicious Code Analysis 악성 코드 분석 (18) <br> 
 Vulnerability Analysis 취약점 분석 (14) <br>  
 Forensic 포렌식 (1)  
-DreamHack (21)  
+DreamHack (21)  <br> 
 Full Stack Course 풀스택과정 (33) <br> 
 ---------------------------<br> <br>
 SPRING (13) 
@@ -34,8 +34,7 @@ HTML_CSS_JAVASCRIPT (9)
 Git-Hub (1)  
 Artificial Intelligence 인공지능 (1)  
 DataAnalysis 데이터분석 (1) 
-기타 (10)<br>
----------------------------<br> <br>  
+기타 (10)<br> 
 프로젝트 (1) 
   <br> <br>
 <!--
